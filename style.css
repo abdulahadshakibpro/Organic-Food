@@ -1,0 +1,95 @@
+section{
+    display:flex;
+}
+span{
+    color:orange;
+}
+p{
+    font-size:20px;
+    text-align:justify;
+}
+a{
+    text-decoration:none;
+    color:black;
+    background-color:orange;
+    font-size:20px;
+    border:solid orange 7px;
+    border-radius:15px;
+    box-shadow:10px 10px 40px orange;
+    
+}
+.half-width{
+    font-size:large;
+    padding-left:80px;
+    padding-top:50px;
+}
+.half-width img{
+    width:50%;
+    padding-right:;
+}
+.frame{
+    padding-bottom:px;
+    background-image:url(images/shapes/Frame\ 57.jpg);
+    margin-bottom:50px;
+}
+.recipies{
+    text-align:center;
+    padding-left:220px;
+    padding-right:220px;
+}
+.recipies-area{
+    padding-bottom:50px;
+}
+.recipies-box{
+    width:40%;
+    Box-shadow:5px 5px 20px grey;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.recipies-box2{
+    width:40%;
+    Box-shadow:5px 5px 20px grey;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:50px;
+}
+.people{
+    padding-bottom:50px;
+    width:1150px;
+    height:180px;
+    box-shadow:10px 10px 40px grey;
+    text-align:center;
+    margin-left:5%;
+    margin-right:5%;
+}
+.viewer1{
+margin-left:10%;
+margin-right:10%;
+}
+.viewer2{
+    margin-left:10%;
+    margin-right:10%;
+}
+.viewer3{
+    margin-left:10%;
+    margin-right:10%;
+}
+h1{
+    font-size:50px;
+}
+h3{
+    font-size:25px;
+}
+footer{
+    padding-bottom:10px;
+    text-align:center;
+    color:white;
+    background-color:black;
+    width:1245px;
+    height:215px;
+}
