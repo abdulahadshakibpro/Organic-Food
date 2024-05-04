@@ -47,6 +47,8 @@ a{
     margin-right:5%;
     padding-left:10px;
     padding-right:10px;
+    border-left:7px solid orange;
+    border-radius:10px;
 }
 
 .recipies-box2{
@@ -57,6 +59,9 @@ a{
     padding-left:10px;
     padding-right:10px;
     padding-bottom:50px;
+    border-left:7px solid green;
+    border-radius:10px;
+}
 }
 .people{
     padding-bottom:50px;
