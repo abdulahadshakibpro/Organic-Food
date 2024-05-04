@@ -62,12 +62,12 @@ a{
     border-left:7px solid green;
     border-radius:10px;
 }
-}
+
 .people{
     padding-bottom:50px;
     width:1150px;
     height:180px;
-    box-shadow:10px 10px 40px grey;
+    box-shadow:10px 10px 40px rgb(122, 119, 119);
     text-align:center;
     margin-left:5%;
     margin-right:5%;
